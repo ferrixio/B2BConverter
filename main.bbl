@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{testArticle1}
+Dick~Fulmine Many~people.
+\newblock Sample text 1.
+\newblock {\em journal name}, 2048.
+
+\bibitem{testArticle2}
+Nobody.
+\newblock The big k.e.k.
+\newblock {\em Journal G}, 14(3):342--351, 1993.
+
+\end{thebibliography}
